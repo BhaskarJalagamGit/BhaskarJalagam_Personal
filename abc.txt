@@ -1,0 +1,6 @@
+    Host "XXX.XXX.XXX.XXX"
+    Port "2003"
+    Protocol "tcp"
+    ReconnectInterval 0
+    LogSendErrors true
+    Prefix "XXXX"
